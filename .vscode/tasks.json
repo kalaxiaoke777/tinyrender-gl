@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "g++",
+      "args": ["-g", "main.cpp", "tgaimage.cpp", "-o", "main.exe"],
+      "options": {
+        "cwd": "${workspaceFolder}/02-line"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

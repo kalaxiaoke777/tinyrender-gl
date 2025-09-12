@@ -5,9 +5,9 @@
       "label": "build",
       "type": "shell",
       "command": "g++",
-      "args": ["-g", "main.cpp", "tgaimage.cpp", "-o", "main.exe"],
+      "args": ["-g", "main.cpp", "model.cpp", "tgaimage.cpp", "-o", "main.exe"],
       "options": {
-        "cwd": "${workspaceFolder}/02-line"
+        "cwd": "${workspaceFolder}/03"
       },
       "group": {
         "kind": "build",

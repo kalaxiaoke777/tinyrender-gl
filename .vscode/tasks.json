@@ -7,7 +7,7 @@
       "command": "g++",
       "args": ["-g", "main.cpp", "model.cpp", "tgaimage.cpp", "-o", "main.exe"],
       "options": {
-        "cwd": "${workspaceFolder}/03"
+        "cwd": "${workspaceFolder}/04"
       },
       "group": {
         "kind": "build",

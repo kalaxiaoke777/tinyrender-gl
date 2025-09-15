@@ -1,14 +1,13 @@
-// 头文件包含，分别是TGA图片处理、模型加载、输入输出、时间和随机数相关
 #include "tgaimage.h"
 #include "model.h"
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
-using std::cout; using std::endl;
+using std::cout; 
+using std::endl;
 
-// 定义模型指针
+
 Model *model = NULL;
-// 定义输出图片的宽高
 const int width = 600;
 const int height = 600;
 

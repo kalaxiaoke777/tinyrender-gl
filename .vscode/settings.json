@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "manifest.json": "jsonc",
+    "pages.json": "jsonc",
+    "*.html": "html",
+    "*.py": "python",
+    "limits": "cpp"
+  }
+}

@@ -4,6 +4,7 @@
     "pages.json": "jsonc",
     "*.html": "html",
     "*.py": "python",
-    "limits": "cpp"
+    "limits": "cpp",
+    "xstring": "cpp"
   }
 }
